@@ -1,6 +1,6 @@
 {
   "name": "jspad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "bin": "dist/index.js",
   "publishConfig": {
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jspad/local-client": "^1.0.1"
+    "@jspad/local-client": "^1.0.2"
   },
   "devDependencies": {
-    "@jspad/local-api": "^1.0.1",
+    "@jspad/local-api": "^1.0.2",
     "@types/node": "^14.14.28",
     "commander": "^7.1.0",
     "esbuild": "0.8.26",
